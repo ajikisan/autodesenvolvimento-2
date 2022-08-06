@@ -7,8 +7,8 @@ Nada é tão bom que não possa ser melhorado. Evolua...respeitando sua saúde e
 
 Coloco-me à disposição para o que for necessário 
 
+[Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/)
 
-[Linkedin] :(https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/)
 
 # Skillsoft Compliance Solutions   
 [Skillsoft](https://www.skillsoft.com/)
@@ -41,7 +41,7 @@ Coloco-me à disposição para o que for necessário
 
 
 # PSG Tecnologia Aplicada
-[PSG] (http://psgtecnologia.com.br/)
+[PSG](http://psgtecnologia.com.br/)
 | Data           	      | Certificado 	| Curso                                                                                  	| Carga Horária 	|
 |---------------------- |-------------	|----------------------------------------------------------------------------------------	|---------------	|
 | 17/01/22 a 11/02/2022 | 		          |Curso de Natural Básico com Adabas				                  	                          	| 40 horas      	|
@@ -50,7 +50,7 @@ Coloco-me à disposição para o que for necessário
 
 
 # Escola Conquer
-[Conquer] (https://escolaconquer.com.br/)
+[Conquer](https://escolaconquer.com.br/)
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
 |----------------	|-------------	|----------------------------------------------------------------------------------------------	|---------------	|
 | 19/07/2022 	  	| 		          |PNL para Líderes						                  	                                              	| 4 horas        	|
