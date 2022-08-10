@@ -56,3 +56,11 @@ Coloco-me à disposição para o que for necessário
 | 19/07/2022 	  	| 		          |PNL para Líderes						                  	                                              	| 4 horas        	|
 | 20/07/2022		  | 		          |A Linguagem dos Bancos de Dados						                                                	 	| 10 horas       	|
 | 23/07/2022		  | 	            |Ciência de Dados						      	 			                                                      | 4 horas        	|
+
+
+
+# Gino Terentim Academia De Desenvolvimento Empresarial LTDA
+[Gino Terentim](https://www.ginoterentim.com/)
+| Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
+|---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
+|20, 21, 26 e 27/07/2022 |GT-PSMPSPO-T001-2022-9650230 |Fundamentos Scrum e Preparatório PSM I e PSPO I 					                    	| 15 horas        |
