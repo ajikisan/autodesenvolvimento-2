@@ -64,3 +64,11 @@ Coloco-me à disposição para o que for necessário
 | Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
 |---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
 |20, 21, 26 e 27/07/2022 |GT-PSMPSPO-T001-2022-9650230 |Fundamentos Scrum e Preparatório PSM I e PSPO I 					                    	| 15 horas        |
+
+
+
+# DATAB
+[DataB](https://datab.com.br/)
+| Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
+|---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
+|16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                    	| 1 hora          |
