@@ -72,3 +72,4 @@ Coloco-me à disposição para o que for necessário
 | Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
 |---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
 |16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                    	| 1 hora          |
+|01/09/2022              |6303dee42c2b91e4de01c78d     |Semana do Power BI                        			                              	| 8 horas         |
