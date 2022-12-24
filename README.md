@@ -62,15 +62,22 @@ Coloco-me à disposição para o que for necessário
 
 # Gino Terentim Academia De Desenvolvimento Empresarial LTDA
 [Gino Terentim](https://www.ginoterentim.com/)
-| Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
-|---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
-|20, 21, 26 e 27/07/2022 |GT-PSMPSPO-T001-2022-9650230 |Fundamentos Scrum e Preparatório PSM I e PSPO I 					                    	| 15 horas        |
+| Data           	       | Certificado 	               | Curso                                                                    | Carga Horária 	|
+|---------------------   |--------------------------   |------------------------------------------------------------------------  |---------------	|
+|20, 21, 26 e 27/07/2022 |GT-PSMPSPO-T001-2022-9650230 |Fundamentos Scrum e Preparatório PSM I e PSPO I 					                | 15 horas        |
 
 
 
 # DATAB
 [DataB](https://datab.com.br/)
-| Data           	       | Certificado 	               | Curso                                                                         	| Carga Horária 	|
-|---------------------   |--------------------------   |------------------------------------------------------------------------       	|---------------	|
-|16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                    	| 1 hora          |
-|01/09/2022              |6303dee42c2b91e4de01c78d     |Semana do Power BI                        			                              	| 8 horas         |
+| Data           	       | Certificado 	               | Curso                                                                     | Carga Horária 	|
+|---------------------   |--------------------------   |------------------------------------------------------------------------   |---------------	|
+|16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                 | 1 hora          |
+|01/09/2022              |6303dee42c2b91e4de01c78d     |Semana do Power BI                        			                           | 8 horas         |
+
+
+# Canal Valor
+[Canal Valor](https://canalvalor.com/)
+| Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
+|----------------	|-------------	|----------------------------------------------------------------------------------------------	|---------------	|
+| 23/12/2022 	  	| 12860409      |Fundamentos de Gestão de Backlog              	                                              	| 4 horas        	|
