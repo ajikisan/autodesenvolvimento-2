@@ -78,6 +78,8 @@ Coloco-me à disposição para o que for necessário
 
 # Canal Valor
 [Canal Valor](https://canalvalor.com/)
-| Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
-|----------------	|-------------	|----------------------------------------------------------------------------------------------	|---------------	|
-| 23/12/2022 	  	| 12860409      |Fundamentos de Gestão de Backlog              	                                              	| 4 horas        	|
+| Data           	| Certificado 	                                        | Curso                                                	| Carga Horária 	|
+|----------------	|----------------------------------------------------- 	|------------------------------------------------------	|---------------	|
+| 23/12/2022 	  	| A9d6deffa69dd70dc545b849ae0764125a5f3fdc/12860409/1   |Fundamentos de Gestão de Backlog              	        | 4 horas        	|
+| 25/12/2022 	  	| D66619ad2500a07098035633de073c05f8c125ae/12860409/1   |Jira e Confluence                            	        | 14 horas      	|
+
