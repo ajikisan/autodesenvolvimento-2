@@ -70,8 +70,8 @@ Coloco-me à disposição para o que for necessário
 
 # DATAB
 [DataB](https://datab.com.br/)
-| Data           	       | Certificado 	               | Curso                                                                     | Carga Horária 	|
-|---------------------   |--------------------------   |------------------------------------------------------------------------   |---------------	|
+| Data           	       | Certificado 	               | Curso                                                                     | Carga Horária 	 |
+|---------------------   |--------------------------   |------------------------------------------------------------------------   |---------------	 |
 |16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                 | 1 hora          |
 |01/09/2022              |6303dee42c2b91e4de01c78d     |Semana do Power BI                        			                           | 8 horas         |
 
@@ -82,4 +82,5 @@ Coloco-me à disposição para o que for necessário
 |----------------	|----------------------------------------------------- 	|------------------------------------------------------	|---------------	|
 | 23/12/2022 	  	| A9d6deffa69dd70dc545b849ae0764125a5f3fdc/12860409/1   |Fundamentos de Gestão de Backlog              	        | 4 horas        	|
 | 25/12/2022 	  	| D66619ad2500a07098035633de073c05f8c125ae/12860409/1   |Jira e Confluence                            	        | 14 horas      	|
+| 28/12/2022 	  	| 417698a3dd543fbc71be46704fce2a48ebd19c19/12860409/1   |Fundamentos do Método Kanban                  	        | 3 horas       	|
 
