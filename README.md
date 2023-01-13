@@ -39,7 +39,8 @@ Coloco-me à disposição para o que for necessário
 | 13/12/2021		  | 727180	      |ISO/IEC 27032 para DPOs – Padrão de Segurança Cibernética		                     	            | 2,5 horas      	|
 | 12 e 13/01/2022 | 805017	      |Adequação à LGPD adotando o Sistema de Gestão de Proteção de Dados (SGPD)                     	| 4 horas        	|
 | 29/09/2022  |1751933	|Importância dos Controles ISO/IEC27001:2022 na Governança de Privacidade desde a Concepção e por Padrão 	| 1.5 horas      	|
-| 04 e 05/01/2023 |1892728	|Imersão Profissional em ESG                                                                        	| 5 horas       	|
+| 04 e 05/01/2023 |1892728	      |Imersão Profissional em ESG                                                                  	| 5 horas       	|
+| 12/01/2023      |1912805	      |Workshop Metas Poderosas                                                                       | 2 horas       	|
 
 
 # PSG Tecnologia Aplicada
