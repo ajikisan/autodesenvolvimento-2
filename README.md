@@ -86,3 +86,8 @@ Coloco-me à disposição para o que for necessário
 | 25/12/2022 	  	| D66619ad2500a07098035633de073c05f8c125ae/12860409/1   |Jira e Confluence                            	        | 14 horas      	|
 | 28/12/2022 	  	| 417698a3dd543fbc71be46704fce2a48ebd19c19/12860409/1   |Fundamentos do Método Kanban                  	        | 3 horas       	|
 
+# Udemy
+[Udemy](https://www.udemy.com/)
+| Data           	| Certificado 	  | Curso                                                	                                      | Carga Horária 	|
+|----------------	|-------------- 	|-------------------------------------------------------------------------------------------	|---------------	|
+| 17/01/2023 	  	|                 |Tableau Desktop para Iniciantes - Business Intelligence          	                          | 5 horas        	|
