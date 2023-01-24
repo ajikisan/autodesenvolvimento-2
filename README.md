@@ -91,3 +91,10 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	  | Curso                                                	                                      | Carga Horária 	|
 |----------------	|-------------- 	|-------------------------------------------------------------------------------------------	|---------------	|
 | 17/01/2023 	  	|                 |Tableau Desktop para Iniciantes - Business Intelligence          	                          | 5 horas        	|
+
+
+# Exame Academy
+[Exame Academy](https://academy.exame.com/)
+| Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
+|----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
+| 23/01/2023 	  	|YWppa2lzYW5AaG90bWFpbC5jb20  |Gerente de Produtos 3.0                               	                          | 1 hora        	|
