@@ -85,6 +85,7 @@ Coloco-me à disposição para o que for necessário
 | 23/12/2022 	  	| A9d6deffa69dd70dc545b849ae0764125a5f3fdc/12860409/1   |Fundamentos de Gestão de Backlog              	        | 4 horas        	|
 | 25/12/2022 	  	| D66619ad2500a07098035633de073c05f8c125ae/12860409/1   |Jira e Confluence                            	        | 14 horas      	|
 | 28/12/2022 	  	| 417698a3dd543fbc71be46704fce2a48ebd19c19/12860409/1   |Fundamentos do Método Kanban                  	        | 3 horas       	|
+| 23, 25 e 27/01/2023 | 0af9d312-0287-4e51-b5a8-4c4244fe2cf1                |Product Owner Casca Grossa                           | 6 horas       	|
 
 # Udemy
 [Udemy](https://www.udemy.com/)
