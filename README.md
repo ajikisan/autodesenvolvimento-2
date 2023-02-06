@@ -76,7 +76,7 @@ Coloco-me à disposição para o que for necessário
 |---------------------   |--------------------------   |------------------------------------------------------------------------   |---------------	 |
 |16/08/2022              |62890dbcf81a08db8e048326     |Minicurso Básico de Power BI                        			                 | 1 hora          |
 |01/09/2022              |6303dee42c2b91e4de01c78d     |Semana do Power BI                        			                           | 8 horas         |
-|30/01/2023 a 05/02/2023 |                             |Jornada do Power BI                        			                          | 10 horas         |
+|30/01/2023 a 05/02/2023 |63dd0c9bc40a652a830b383c     |Jornada do Power BI                        			                           | 10 horas        |
 
 
 # Canal Valor
