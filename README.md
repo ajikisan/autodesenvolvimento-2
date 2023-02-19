@@ -101,3 +101,10 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
 |----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
 | 23/01/2023 	  	|YWppa2lzYW5AaG90bWFpbC5jb20  |Gerente de Produtos 3.0                               	                          | 1 hora        	|
+
+
+# EBAC Escola Britânica de Artes Criativas & Tecnologia
+[BBAC](https://ebaconline.com.br/)
+| Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
+|----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
+| 13 a 17/02/2023	|02014-03092-64048-96118      |Oportunidades para trabalhar com IX e produtos digitais                          | 10 horas       	|
