@@ -108,3 +108,9 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
 |----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
 | 13 a 17/02/2023	|02014-03092-64048-96118      |Oportunidades para trabalhar com IX e produtos digitais                          | 10 horas       	|
+
+# Técnicas de Invasão
+[TDI](https://tecnicasdeinvasao.com/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 06 a 10/02/2023	|962d5ce1-d8c7-4d27-9228-cd4e0eda865f   |Fundamentos de Segurança da Informação e Hacking Ético                 | 12 horas       	|
