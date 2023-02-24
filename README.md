@@ -42,6 +42,7 @@ Coloco-me à disposição para o que for necessário
 | 04 e 05/01/2023 |1892728	      |Imersão Profissional em ESG                                                                  	| 5 horas       	|
 | 12/01/2023      |1912805	      |Workshop Metas Poderosas                                                                       | 2 horas       	|
 | 15 e 16/02/2023 |2058833	      | Jornada do Novo Gestor de Privacidade                                                         | 4 horas       	|
+| 23/02/2023      |2059405	      | Os principais pontos de investigação em celulares em relação ao vazamento de dados            | 4 horas       	|
 
 
 # PSG Tecnologia Aplicada
