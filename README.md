@@ -7,7 +7,7 @@ Nada é tão bom que não possa ser melhorado. Evolua...respeitando sua saúde e
 
 Coloco-me à disposição para o que for necessário 
 
-[Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/)
+[Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa/)
 
 
 # Skillsoft Compliance Solutions   
@@ -43,6 +43,7 @@ Coloco-me à disposição para o que for necessário
 | 12/01/2023      |1912805	      |Workshop Metas Poderosas                                                                       | 2 horas       	|
 | 15 e 16/02/2023 |2058833	      | Jornada do Novo Gestor de Privacidade                                                         | 4 horas       	|
 | 23/02/2023      |2059405	      | Os principais pontos de investigação em celulares em relação ao vazamento de dados            | 4 horas       	|
+| 14/03/2023      |2061775        | Masterclass Técnicas de Investigação para DPOs                                                | 3 horas       	|
 
 
 # PSG Tecnologia Aplicada
