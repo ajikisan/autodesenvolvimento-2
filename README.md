@@ -70,7 +70,7 @@ Coloco-me à disposição para o que for necessário
 | Data           	       | Certificado 	               | Curso                                                                    | Carga Horária 	|
 |---------------------   |--------------------------   |------------------------------------------------------------------------  |---------------	|
 |20, 21, 26 e 27/07/2022 |GT-PSMPSPO-T001-2022-9650230 |Fundamentos Scrum e Preparatório PSM I e PSPO I 					                | 15 horas        |
-|08 a 14/03/2023         |GT-PSMPSPO-T001-202300166    |Preparatório para Certificações PSM I e PSPO I 			                      | 15 horas        |
+|08 a 14/03/2023         |GT-PSMPSPO-T001-202300166    |Preparatório para Certificações PSM I e PSPO I  + Cynefin Fundamentals    | 15 horas        |
 
 
 
