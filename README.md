@@ -45,6 +45,7 @@ Coloco-me à disposição para o que for necessário
 | 23/02/2023      |2059405	      | Os principais pontos de investigação em celulares em relação ao vazamento de dados            | 4 horas       	|
 | 14/03/2023      |2061775        | Masterclass Técnicas de Investigação para DPOs                                                | 3 horas       	|
 | 18 e 19/04/2023 |2130565        | Imersão Profissional de Privacidade LGPD                                                      | 5 horas       	|
+| 04/05/2023      |2152981        | Chat GPT e a Produção de Conteúdo                                                             | 2 horas       	|
 
 
 # PSG Tecnologia Aplicada
