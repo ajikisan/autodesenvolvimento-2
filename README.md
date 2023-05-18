@@ -46,7 +46,7 @@ Coloco-me à disposição para o que for necessário
 | 14/03/2023      |2061775        | Masterclass Técnicas de Investigação para DPOs                                                | 3 horas       	|
 | 18 e 19/04/2023 |2130565        | Imersão Profissional de Privacidade LGPD                                                      | 5 horas       	|
 | 04/05/2023      |2152981        | Chat GPT e a Produção de Conteúdo                                                             | 2 horas       	|
-
+| 17/05/2023      |2153353        | A inteligência artificial sob o ponto de vista ética                                          | 1.5 horas      	|
 
 # PSG Tecnologia Aplicada
 [PSG](http://psgtecnologia.com.br/)
@@ -92,7 +92,7 @@ Coloco-me à disposição para o que for necessário
 | 23/12/2022 	  	| A9d6deffa69dd70dc545b849ae0764125a5f3fdc/12860409/1   |Fundamentos de Gestão de Backlog              	        | 4 horas        	|
 | 25/12/2022 	  	| D66619ad2500a07098035633de073c05f8c125ae/12860409/1   |Jira e Confluence                            	        | 14 horas      	|
 | 28/12/2022 	  	| 417698a3dd543fbc71be46704fce2a48ebd19c19/12860409/1   |Fundamentos do Método Kanban                  	        | 3 horas       	|
-| 23, 25 e 27/01/2023 | 0af9d312-0287-4e51-b5a8-4c4244fe2cf1                |Product Owner Casca Grossa                           | 6 horas       	|
+| 23, 25 e 27/01/2023 | 0af9d312-0287-4e51-b5a8-4c4244fe2cf1              |Product Owner Casca Grossa                             | 6 horas       	|
 
 # Udemy
 [Udemy](https://www.udemy.com/)
@@ -119,3 +119,4 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 06 a 10/02/2023	|962d5ce1-d8c7-4d27-9228-cd4e0eda865f   |Fundamentos de Segurança da Informação e Hacking Ético                 | 12 horas       	|
+| 17/05/2023	    |                                       |Mini Treinamento Hacker Investigador                                   | 4 horas       	|
