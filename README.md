@@ -48,6 +48,7 @@ Coloco-me à disposição para o que for necessário
 | 04/05/2023      |2152981        | Chat GPT e a Produção de Conteúdo                                                             | 2 horas       	|
 | 17/05/2023      |2153353        | A inteligência artificial sob o ponto de vista ética                                          | 1.5 horas      	|
 | 13/06/2023      |2186772        | Técnicas de Investigação para DPOs                                                            | 2.5 horas      	|
+| 13/07/2023      |2222677        | Entendendo a 1ª Multa da LGPD ANPD                                                            | 2.5 horas      	|
 
 # PSG Tecnologia Aplicada
 [PSG](http://psgtecnologia.com.br/)
