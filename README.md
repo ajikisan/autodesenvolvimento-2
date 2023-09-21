@@ -64,7 +64,7 @@ Coloco-me à disposição para o que for necessário
 [Conquer](https://escolaconquer.com.br/)
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
 |----------------	|-------------	|----------------------------------------------------------------------------------------------	|---------------	|
-| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463          |PNL para Líderes						                  	                                              	| 4 horas        	|
+| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463               |PNL para Líderes						                  	                                              	| 4 horas        	|
 | 20/07/2022		  | https://conquerplus.com.br/certificates/75ace360-ab9c-4483-a23c-e9f39261a118?enrollment=4628427		          |A Linguagem dos Bancos de Dados						                                                	 	| 10 horas       	|
 | 05/08/20232		  | https://conquerplus.com.br/certificates/49ccb388-1e8e-49fa-a538-fbe99bd0c005?enrollment=4834060	            |Análise de DAdos e Power BI | 10 horas        	|
 
@@ -123,3 +123,12 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 06 a 10/02/2023	|962d5ce1-d8c7-4d27-9228-cd4e0eda865f   |Fundamentos de Segurança da Informação e Hacking Ético                 | 12 horas       	|
 | 17/05/2023	    |                                       |Mini Treinamento Hacker Investigador                                   | 4 horas       	|
+
+
+# Cisco Network Academy
+[Cisco](https://tecnicasdeinvasao.com/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 11 a 19/09/2023	|9636ac11-f37e-4989-9f1c-97c7e3b4ae18   |Cybersecurity Essentials                                               | 30 horas       	|
+
+
