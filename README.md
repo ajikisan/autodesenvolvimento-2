@@ -126,9 +126,15 @@ Coloco-me à disposição para o que for necessário
 
 
 # Cisco Network Academy
-[Cisco](https://tecnicasdeinvasao.com/)
+[Cisco](https://www.netacad.com/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 11 a 19/09/2023	|9636ac11-f37e-4989-9f1c-97c7e3b4ae18   |Cybersecurity Essentials                                               | 30 horas       	|
 
+
+# SEBRAE MS
+[SEBRAE](https://sebrae.com.br/sites/PortalSebrae)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 05 a 06/10/2023	|https://aovivo-empreendefest.ms.sebrae.com.br/api/certificate/651f0cb27f24000008abf4ea/image |EmpreendFest 2023| 16 horas       	|
 
