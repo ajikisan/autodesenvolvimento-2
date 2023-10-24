@@ -109,6 +109,7 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
 |----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
 | 23/01/2023 	  	|YWppa2lzYW5AaG90bWFpbC5jb20  |Gerente de Produtos 3.0                               	                          | 1 hora        	|
+| 16, 18 e 20/10/2023 	  	|d5d849fbd2030d0e7830da90511  |Carreira em Inteligência Artificial                   	                          | 2 horas        	|
 
 
 # Escola Britânica de Artes Criativas & Tecnologia
