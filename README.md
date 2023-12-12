@@ -131,6 +131,7 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 11 a 19/09/2023	|9636ac11-f37e-4989-9f1c-97c7e3b4ae18   |Cybersecurity Essentials                                               | 30 horas       	|
+| 30/10/2023 a 11/12/2023	|79879cb9-39bc-4b31-aada-a7dd8a1643e5 |CCNA Cisco Certified Network Associate Introduction to Networks  | 70 horas       	|
 
 
 # SEBRAE MS
