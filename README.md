@@ -62,11 +62,12 @@ Coloco-me à disposição para o que for necessário
 
 # Escola Conquer
 [Conquer](https://escolaconquer.com.br/)
-| Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
-|----------------	|-------------	|----------------------------------------------------------------------------------------------	|---------------	|
-| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463               |PNL para Líderes						                  	                                              	| 4 horas        	|
-| 20/07/2022		  | https://conquerplus.com.br/certificates/75ace360-ab9c-4483-a23c-e9f39261a118?enrollment=4628427		          |A Linguagem dos Bancos de Dados						                                                	 	| 10 horas       	|
-| 05/08/20232		  | https://conquerplus.com.br/certificates/49ccb388-1e8e-49fa-a538-fbe99bd0c005?enrollment=4834060	            |Análise de DAdos e Power BI | 10 horas        	|
+| Data           	| Certificado 	| Curso                                                                                        	| Carga Horária           	|
+|----------------	|-------------	|----------------------------------------------------------------------------------------------	|-------------------------	|
+| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463               |PNL para Líderes	| 4 horas	|					                  	                                            
+| 20/07/2022		  | https://conquerplus.com.br/certificates/75ace360-ab9c-4483-a23c-e9f39261a118?enrollment=4628427	|A Linguagem dos Bancos de Dados| 10 horas|
+
+| 05/08/20232		  | https://conquerplus.com.br/certificates/49ccb388-1e8e-49fa-a538-fbe99bd0c005?enrollment=4834060	|Análise de DAdos e Power BI| 10 horas|
 
 
 
@@ -109,7 +110,7 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	              | Curso                                   	                                      | Carga Horária 	|
 |----------------	|-------------------------- 	|--------------------------------------------------------------------------------	|---------------	|
 | 23/01/2023 	  	|YWppa2lzYW5AaG90bWFpbC5jb20  |Gerente de Produtos 3.0                               	                          | 1 hora        	|
-| 16, 18 e 20/10/2023 	  	|d5d849fbd2030d0e7830da90511  |Carreira em Inteligência Artificial                   	                          | 2 horas        	|
+| 16, 18 e 20/10/2023 |d5d849fbd2030d0e7830da90511  |Carreira em Inteligência Artificial                        	                | 2 horas        	|
 
 
 # Escola Britânica de Artes Criativas & Tecnologia
@@ -138,5 +139,15 @@ Coloco-me à disposição para o que for necessário
 [SEBRAE](https://sebrae.com.br/sites/PortalSebrae)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 05 a 06/10/2023	|https://aovivo-empreendefest.ms.sebrae.com.br/api/certificate/651f0cb27f24000008abf4ea/image |EmpreendFest 2023| 16 horas       	|
+| 05 a 06/10/2023	|https://aovivo-empreendefest.ms.sebrae.com.br/api/certificate/651f0cb27f24000008abf4ea/image|EmpreendFest 2023 |16 horas       	|
+
+
+# GLOBAL GAME JAM LLMS
+[SEBRAE - Living Lab](https://www.livinglabms.com.br/global-game-jam-ms)
+| Data           	| Evidências do Desafio 2024: Faça-me Rir!                      	                                          | Carga Horária 	|
+|----------------	|---------------------------------------------------------------------------------------------------------	|---------------	|
+| 26 a 28/01/2024	| https://globalgamejam.org/games/2024/pqp-palavra-que-passa-7| 48 horas                                    | 48 horas        |
+| 29 a 31/01/2024 | https://www.youtube.com/watch?v=rUmHvow3vDM                                                               |	8  horas        |
+| 30 a 31/01/2024 | https://sucurihc.org/blog/desvendando-o-global-game-jam-llms-2024-a-jornada-de-risos-codigos-e-ciberseguranca	|6 horas      |
+
 
