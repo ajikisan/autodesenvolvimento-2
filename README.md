@@ -64,11 +64,9 @@ Coloco-me à disposição para o que for necessário
 [Conquer](https://escolaconquer.com.br/)
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária           	|
 |----------------	|-------------	|----------------------------------------------------------------------------------------------	|-------------------------	|
-| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463               |PNL para Líderes	| 4 horas	|					                  	                                            
-| 20/07/2022		  | https://conquerplus.com.br/certificates/75ace360-ab9c-4483-a23c-e9f39261a118?enrollment=4628427	|A Linguagem dos Bancos de Dados| 10 horas|
-
-| 05/08/20232		  | https://conquerplus.com.br/certificates/49ccb388-1e8e-49fa-a538-fbe99bd0c005?enrollment=4834060	|Análise de DAdos e Power BI| 10 horas|
-
+| 19/07/2022 	  	| https://conquerplus.com.br/certificates/1610cdb6-7853-417e-b39e-4c1bdd6978e7?enrollment=4616463               |PNL para Líderes	| 4 horas	|					         
+|20/07/2022		  | https://conquerplus.com.br/certificates/75ace360-ab9c-4483-a23c-e9f39261a118?enrollment=4628427 	|A Linguagem dos Bancos de Dados| 10 horas|
+| 05/08/2023		  | https://conquerplus.com.br/certificates/49ccb388-1e8e-49fa-a538-fbe99bd0c005?enrollment=4834060	|Análise de Dados e Power Bi    | 10 horas|
 
 
 # Gino Terentim Academia De Desenvolvimento Empresarial LTDA
@@ -136,18 +134,18 @@ Coloco-me à disposição para o que for necessário
 
 
 # SEBRAE MS
-[SEBRAE](https://sebrae.com.br/sites/PortalSebrae)
+[SEBRAE](https://sebrae.com.br/sites/PortalSebrae/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 05 a 06/10/2023	|https://aovivo-empreendefest.ms.sebrae.com.br/api/certificate/651f0cb27f24000008abf4ea/image|EmpreendFest 2023 |16 horas       	|
 
 
 # GLOBAL GAME JAM LLMS
-[SEBRAE - Living Lab](https://www.livinglabms.com.br/global-game-jam-ms)
+[SEBRAE - Living Lab](https://www.livinglabms.com.br/global-game-jam-ms/)
 | Data           	| Evidências do Desafio 2024: Faça-me Rir!                      	                                          | Carga Horária 	|
 |----------------	|---------------------------------------------------------------------------------------------------------	|---------------	|
-| 26 a 28/01/2024	| https://globalgamejam.org/games/2024/pqp-palavra-que-passa-7| 48 horas                                    | 48 horas        |
-| 29 a 31/01/2024 | https://www.youtube.com/watch?v=rUmHvow3vDM                                                               |	8  horas        |
-| 30 a 31/01/2024 | https://sucurihc.org/blog/desvendando-o-global-game-jam-llms-2024-a-jornada-de-risos-codigos-e-ciberseguranca	|6 horas      |
+| 26 a 28/01/2024	| [Global Game Jam Repository - PQP Palavra Que Passa](https://globalgamejam.org/games/2024/pqp-palavra-que-passa-7/) | 48 horas        |
+| 29 a 31/01/2024 | [Youtube - Desvendando o Global Game Jam LLMS](https://www.youtube.com/watch?v=rUmHvow3vDM)               |	8  horas        |
+| 30 a 31/01/2024 | [Artigo - Desvendando o Global Game Jam LLMS: A Jornada de Risos Códigos e Cibersegurança](https://sucurihc.org/blog/desvendando-o-global-game-jam-llms-2024-a-jornada-de-risos-codigos-e-ciberseguranca)	|6 horas      |
 
 
