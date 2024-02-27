@@ -151,3 +151,8 @@ Coloco-me à disposição para o que for necessário
 | 30 a 31/01/2024 | [Artigo - Desvendando o Global Game Jam LLMS: A Jornada de Risos Códigos e Cibersegurança](https://sucurihc.org/blog/desvendando-o-global-game-jam-llms-2024-a-jornada-de-risos-codigos-e-ciberseguranca)	|6 horas      |
 
 
+# Hackers do Bem 
+[Hackers do Bem](https://hackersdobem.org.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 08 a 24/02/2024	|68 |Nivelamento do Programa Hackers do Bem - Formação em Cibersegurança |80 horas   	|
