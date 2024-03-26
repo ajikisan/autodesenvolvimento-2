@@ -129,12 +129,14 @@ Coloco-me à disposição para o que for necessário
 
 
 # Cisco Network Academy
-[Cisco](https://www.netacad.com/)
+[Cisco Net Academy](https://www.netacad.com/)
+[Cisco Skills For All](https://skillsforall.com/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 11 a 19/09/2023	|9636ac11-f37e-4989-9f1c-97c7e3b4ae18   |Cybersecurity Essentials                                               | 30 horas       	|
 | 30/10/2023 a 11/12/2023	|79879cb9-39bc-4b31-aada-a7dd8a1643e5 |CCNA Cisco Certified Network Associate Introduction to Networks  | 70 horas       	|
 | 30/01/2024 a 25/02/2024	|46948760-3717-44f9-98bc-b924ecd7f085 |Cisco CyberOps Associate   | 40 horas       	|
+| 04/03/2024 a 24/03/2024	|fab417b4-2aac-441e-ae51-c33fee30e234 |NTT Cisco Endpoint Security| 40 horas       	|
 
 
 # SEBRAE MS
