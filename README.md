@@ -160,3 +160,16 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 08 a 24/02/2024	|68 |Nivelamento do Programa Hackers do Bem - Formação em Cibersegurança |80 horas   	|
+
+
+# ABES - Associação Brasileira das Empresas de Software
+[ABES](https://abes.com.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 12/04/2024	|7ZV36PGMJ9UEL6T7V2LA |Fundamentos da Lei Geral de Proteção de Dados Introdução e Boas Práticas |4 horas   	|
+
+# EVG - Escola Virtual do Governo
+[EVG](https://www.escolavirtual.gov.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 30/04/2024 a 01/05/2024	|fiKV12827367EYqc |Princípios do Design Thinking e Inovação em Governo |10 horas   	|
