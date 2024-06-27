@@ -9,6 +9,8 @@ Coloco-me à disposição para o que for necessário
 
 [Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa/)
 
+[Inforchannel](https://inforchannel.com.br/2019/03/08/como-construir-uma-carreira-prospera-em-ti/)
+[Unisys](https://www.unisys.com/pt/news-release/br-como-construir-uma-carreira-prospera-em-ti/)
 
 # Skillsoft Compliance Solutions   
 [Skillsoft](https://www.skillsoft.com/)
@@ -173,3 +175,20 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 30/04/2024 a 01/05/2024	|fiKV12827367EYqc |Princípios do Design Thinking e Inovação em Governo |10 horas   	|
+
+# Sucuri Hacker Club 
+[SucuriHC](https://sucurihc.org)
+| Data           	| Artigos Publicados                    |
+|----------------	|------------------------------------|
+|	17/01/2024|https://sucurihc.org/blog/desvendando-o-global-game-jam-llms-2024-a-jornada-de-risos-codigos-e-ciberseguranca/|
+|	14/02/2024|https://sucurihc.org/blog/proteja-se-na-era-digital-entenda-e-previna-o-roubo-de-identidade/|
+|	12/03/2024|https://sucurihc.org/blog/o-poder-da-persuasao-na-era-digital-como-se-proteger-das-taticas-de-engenharia-social/|
+|	28/03/2024|https://sucurihc.org/blog/nao-caia-na-armadilha-golpe-do-aplicativo-falso-do-imposto-de-renda-em-acao/|
+|	26/06/2024|https://sucurihc.org/blog/ultima-chance-como-impedir-que-a-meta-use-seus-dados-para-treinar-ia/|
+
+
+
+
+
+
+
