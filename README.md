@@ -54,6 +54,8 @@ Coloco-me à disposição para o que for necessário
 | 18 e 19/07/2023 |2222285        | Imersão Profissional de Privacidade LGPD                                                      | 5 horas      	  |
 | 06 e 07/02/2024 |2632203        | Profissional de Privacidade LGPD + Inteligência Artificial                                    | 5 horas      	  |
 | 12/03/2024      |2667827        | PNCiber Política Nacional de Cibersegurança                                                   | 2.5 horas   	  |
+| 02/07/2024      |2727040        | Inteligência Artificial Aplicada na Gestão de Projetos                                        | 1.5 horas   	  |
+
 
 
 # PSG Tecnologia Aplicada
