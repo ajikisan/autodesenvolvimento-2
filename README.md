@@ -178,6 +178,14 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 30/04/2024 a 01/05/2024	|fiKV12827367EYqc |Princípios do Design Thinking e Inovação em Governo |10 horas   	|
 
+
+# Fundação Bradesco - Escola Virtual
+[Fundação Bradesco](https://ev.org.br)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 03/08/2024	|7DED7B61-CEED-4F17-A237-D76556D72371 |Lei Geral de Proteção de Dados |2 horas   	|
+
+
 # Sucuri Hacker Club 
 [SucuriHC](https://sucurihc.org)
 | Data           	| Artigos Publicados                    |
