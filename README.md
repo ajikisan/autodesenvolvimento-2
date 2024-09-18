@@ -187,6 +187,14 @@ Coloco-me à disposição para o que for necessário
 | 03/08/2024	|7DED7B61-CEED-4F17-A237-D76556D72371 |Lei Geral de Proteção de Dados |2 horas   	|
 
 
+# Alura
+[Alura](https://www.alura.com.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 02 a 06/09/2024	|https://cursos.alura.com.br/immersion/certificate/user/mirianajiki|Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/|4 horas   	|
+
+
+
 # Sucuri Hacker Club 
 [SucuriHC](https://sucurihc.org)
 | Data           	| Artigos Publicados                    |
