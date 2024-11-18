@@ -194,6 +194,11 @@ Coloco-me à disposição para o que for necessário
 | 02 a 06/09/2024	|https://cursos.alura.com.br/immersion/certificate/user/mirianajiki|Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/|4 horas   	|
 
 
+# DevSuperior
+[DevSuperior](https://devsuperior.com.br/)
+| Data           	| Projeto 	                            | Curso                                	                            | Carga Horária 	|
+|----------------	|---------------------------------------|-----------------------------------------------------------------	|---------------	|
+| 11 a 17/11/2024	|DSList - Gerenciador de Listas de Jogos|Intensivão Java Spring                                             |7 horas   	      |
 
 # Sucuri Hacker Club 
 [SucuriHC](https://sucurihc.org)
