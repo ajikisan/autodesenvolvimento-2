@@ -212,6 +212,12 @@ Coloco-me à disposição para o que for necessário
 |	12/09/2024|https://sucurihc.org/blog/como-a-ia-e-a-ciberseguranca-podem-te-ajudar-a-desmascarar-fake-news-nas-eleicoes/|
 
 
+# ANETI
+[ANETI](https://aneti.org.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 04/02/2025	|IK37-CC4T-KE8U-YHCM-MH9|ITIL (Information Technology Infrastructure Library) versão 4|2.5 horas   	|
+
 
 
 
