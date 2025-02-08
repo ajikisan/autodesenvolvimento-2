@@ -218,6 +218,11 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 04/02/2025	|IK37-CC4T-KE8U-YHCM-MH9|ITIL (Information Technology Infrastructure Library) versão 4|2.5 horas   	|
 
+# DESECSECURITY
+[DESECSECURITY](https://academy.desecsecurity.com/login/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 08/02/2025	|INYL-IFLVE-LLYT |Introdução ao Pentest na Prática|2 horas   	|
 
 
 
