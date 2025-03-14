@@ -225,6 +225,14 @@ Coloco-me à disposição para o que for necessário
 | 08/02/2025	|INYL-IFLVE-LLYT |Introdução ao Pentest na Prática|2 horas   	|
 
 
+# QAZANDO
+[QAZANDO](https://qazando.com.br/)
+| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
+|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
+| 10 a 13/03/2025	|https://www.certifyme.com.br/qazando/1741563873232 |Bootcamp QA Automation|8 horas   	|
+
+
+
 
 
 
