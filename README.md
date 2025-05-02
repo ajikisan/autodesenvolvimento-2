@@ -192,6 +192,11 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 02 a 06/09/2024	|https://cursos.alura.com.br/immersion/certificate/user/mirianajiki|Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/|4 horas   	|
+| 25/04/2025     	|https://cursos.alura.com.br/user/mmolicawa/course/produtividade-otimizando-rotina-inteligencia-artificial/certificate| ChatGPT: Produtividade Otimizando sua rotina com inteligência artificial |6 horas   	|
+|29/04/2025	|https://cursos.alura.com.br/user/mmolicawa/course/chatgpt-desvendando-ia-conversas-aplicacoes/certificate|ChatGPT: Desvendando a IA em Conversas e suas Aplicações|8 horas   	|
+| 02/05/2025	|https://cursos.alura.com.br/user/mmolicawa/course/chatgpt-otimizando-qualidade-resultados/certificate|ChatGPT: Otimizando a Qualidade dos Resultados|8 horas   	|
+| 02/05/2025	|https://cursos.alura.com.br/user/mmolicawa/course/copywriting-criando-textos-persuasivos-inteligencia-artificial/certificate|ChatGPT: Copywriting Criando Textos Persuasivos com Inteligência Artificial|8 horas   	|
+
 
 
 # DevSuperior
