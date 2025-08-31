@@ -178,6 +178,7 @@ Coloco-me à disposição para o que for necessário
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 30/04/2024 a 01/05/2024	|fiKV12827367EYqc |Princípios do Design Thinking e Inovação em Governo |10 horas   	|
+| 29/08/2025 a 31/08/2025	|ETF718613069x0oI |Inteligência Artificial – Aplicações no Governo Federal | 8 horas   	|
 
 
 # Fundação Bradesco - Escola Virtual
