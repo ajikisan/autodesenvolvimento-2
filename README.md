@@ -179,6 +179,7 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 30/04/2024 a 01/05/2024	|fiKV12827367EYqc |Princípios do Design Thinking e Inovação em Governo |10 horas   	|
 | 29/08/2025 a 31/08/2025	|ETF718613069x0oI |Inteligência Artificial – Aplicações no Governo Federal | 8 horas   	|
+| 08/09/2025 a 09/09/2025	|Cz4J18753419Lgk9 |Scrum no Contexto do Serviço Público | 15 horas   	|
 
 
 # Fundação Bradesco - Escola Virtual
