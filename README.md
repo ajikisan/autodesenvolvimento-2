@@ -217,6 +217,7 @@ Coloco-me à disposição para o que for necessário
 |	28/03/2024|https://sucurihc.org/blog/nao-caia-na-armadilha-golpe-do-aplicativo-falso-do-imposto-de-renda-em-acao/|
 |	26/06/2024|https://sucurihc.org/blog/ultima-chance-como-impedir-que-a-meta-use-seus-dados-para-treinar-ia/|
 |	12/09/2024|https://sucurihc.org/blog/como-a-ia-e-a-ciberseguranca-podem-te-ajudar-a-desmascarar-fake-news-nas-eleicoes/|
+|	13/09/2025|https://sucurihc.org/blog/importancia-simples-nao-sei-tecnologia/|
 
 
 # ANETI
