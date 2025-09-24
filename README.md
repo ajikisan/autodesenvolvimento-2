@@ -56,6 +56,7 @@ Coloco-me à disposição para o que for necessário
 | 12/03/2024      |2667827        | PNCiber Política Nacional de Cibersegurança                                                   | 2.5 horas   	  |
 | 02/07/2024      |2727040        | Inteligência Artificial Aplicada na Gestão de Projetos                                        | 1.5 horas   	  |
 | 06, 07 e 08/08/2024      |2733905        | Imersão Inteligência Artificial para Líderes e Gestores                              | 8 horas   	    |
+| 22 e 23/09/2025 |3159005        | Gestão de Incidentes de Serviços de TI com ITIL 4                                             | 5 horas   	    |
 
 
 
