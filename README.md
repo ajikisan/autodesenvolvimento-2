@@ -57,6 +57,7 @@ Coloco-me à disposição para o que for necessário
 | 02/07/2024      |2727040        | Inteligência Artificial Aplicada na Gestão de Projetos                                        | 1.5 horas   	  |
 | 06, 07 e 08/08/2024      |2733905        | Imersão Inteligência Artificial para Líderes e Gestores                              | 8 horas   	    |
 | 22 e 23/09/2025 |3159005        | Gestão de Incidentes de Serviços de TI com ITIL 4                                             | 5 horas   	    |
+| 29/09/2025      |3161567        | Materializando a atuação do SOC Security Operations Center                                    | 2 horas   	    |
 
 
 
