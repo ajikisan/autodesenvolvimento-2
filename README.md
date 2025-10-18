@@ -58,6 +58,7 @@ Coloco-me à disposição para o que for necessário
 | 06, 07 e 08/08/2024      |2733905        | Imersão Inteligência Artificial para Líderes e Gestores                              | 8 horas   	    |
 | 22 e 23/09/2025 |3159005        | Gestão de Incidentes de Serviços de TI com ITIL 4                                             | 5 horas   	    |
 | 29/09/2025      |3161567        | Materializando a atuação do SOC Security Operations Center                                    | 2 horas   	    |
+| 17/10/2025      |3166377        | Masterclass Atuação Forense Digital                                                           | 2 horas   	    |
 
 
 
@@ -193,13 +194,18 @@ Coloco-me à disposição para o que for necessário
 
 # Alura
 [Alura](https://www.alura.com.br/)
-| Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
-|----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 02 a 06/09/2024	|https://cursos.alura.com.br/immersion/certificate/user/mirianajiki|Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/|4 horas   	|
-| 25/04/2025     	|https://cursos.alura.com.br/user/mmolicawa/course/produtividade-otimizando-rotina-inteligencia-artificial/certificate| ChatGPT: Produtividade Otimizando sua rotina com inteligência artificial |6 horas   	|
-|29/04/2025	|https://cursos.alura.com.br/user/mmolicawa/course/chatgpt-desvendando-ia-conversas-aplicacoes/certificate|ChatGPT: Desvendando a IA em Conversas e suas Aplicações|8 horas   	|
-| 02/05/2025	|https://cursos.alura.com.br/user/mmolicawa/course/chatgpt-otimizando-qualidade-resultados/certificate|ChatGPT: Otimizando a Qualidade dos Resultados|8 horas   	|
-| 02/05/2025	|https://cursos.alura.com.br/user/mmolicawa/course/copywriting-criando-textos-persuasivos-inteligencia-artificial/certificate|ChatGPT: Copywriting Criando Textos Persuasivos com Inteligência Artificial|8 horas   	|
+| Data           	| Certificado 	      |            Curso                                      	                        | Carga Horária 	|
+|----------------	|------------------  	|------------------------------------------------------------------------------   |---------------	|
+| 02 a 06/09/2024	|                     |Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/                  |4 horas        	|
+| 25/04/2025     	|                     |ChatGPT: Produtividade Otimizando sua rotina com inteligência artificial         |6 horas        	|
+|29/04/2025	      |                     |ChatGPT: Desvendando a IA em Conversas e suas Aplicações                         |8 horas   	      |
+| 02/05/2025    	|                     |ChatGPT: Otimizando a Qualidade dos Resultados                                   |8 horas          |
+| 02/05/2025	    |                     |ChatGPT: Copywriting Criando Textos Persuasivos com Inteligência Artificial      |8 horas        	|
+| 14/05/2025	    |                     |Liderança Aprendendo Sobre a Missão e Propósito de Liderar Pessoas               |6 horas        	|
+| 23/05/2025	    |                     |Liderança Ambidestra Buscando Inovação e Resultados                              |8 horas         	|
+| 04/10/2025	    |                     |PHP Criando sua Aplicação                                                        |8 horas        	|
+| 08/10/2025      |                     |Power Automate Criando fluxos de trabalho automatizados e otimizando rotinas     |8 horas          |
+| 11/10/2025	    |                     |Copilot Pro: aprendendo a utilizar as funcionalidades                            |8 horas        	|
 
 
 
@@ -226,7 +232,7 @@ Coloco-me à disposição para o que for necessário
 [ANETI](https://aneti.org.br/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 04/02/2025	|IK37-CC4T-KE8U-YHCM-MH9|ITIL (Information Technology Infrastructure Library) versão 4|2.5 horas   	|
+| 04/02/2025	|IK37-CC4T-KE8U-YHCM-MH9|ITIL (Information Technology Infrastructure Library) versão 4                              |2.5 horas      	|
 
 # DESECSECURITY
 [DESECSECURITY](https://academy.desecsecurity.com/login/)
