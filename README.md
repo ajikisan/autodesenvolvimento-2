@@ -3,7 +3,9 @@
 
 Nada é tão bom que não possa ser melhorado. Evolua...respeitando sua saúde e o seu tempo.
 
-![PlanoDeTrabalhoVital](plano_de_trabalho_vital.png)
+
+![PlanoDeTrabalhoVital](https://raw.githubusercontent.com/ajikisan/autodesenvolvimento-2/main/plano_de_trabalho_vital.png)
+
 
 Coloco-me à disposição para o que for necessário 
 
