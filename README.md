@@ -143,8 +143,8 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
 | 11 a 19/09/2023	|9636ac11-f37e-4989-9f1c-97c7e3b4ae18   |Cybersecurity Essentials                                               | 30 horas       	|
 | 30/10/2023 a 11/12/2023	|79879cb9-39bc-4b31-aada-a7dd8a1643e5 |CCNA Cisco Certified Network Associate Introduction to Networks  | 70 horas       	|
-| 30/01/2024 a 25/02/2024	|46948760-3717-44f9-98bc-b924ecd7f085 |Cisco CyberOps Associate   | 40 horas       	|
-| 04/03/2024 a 24/03/2024	|fab417b4-2aac-441e-ae51-c33fee30e234 |NTT Cisco Endpoint Security| 40 horas       	|
+| 30/01/2024 a 25/02/2024	|46948760-3717-44f9-98bc-b924ecd7f085 |Cisco CyberOps Associate                                         | 40 horas       	|
+| 04/03/2024 a 24/03/2024	|fab417b4-2aac-441e-ae51-c33fee30e234 |NTT Cisco Endpoint Security                                      | 40 horas       	|
 
 
 # SEBRAE MS
@@ -167,14 +167,14 @@ Coloco-me à disposição para o que for necessário
 [Hackers do Bem](https://hackersdobem.org.br/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 08 a 24/02/2024	|68 |Nivelamento do Programa Hackers do Bem - Formação em Cibersegurança |80 horas   	|
+| 08 a 24/02/2024	|68                                     |Nivelamento do Programa Hackers do Bem - Formação em Cibersegurança    |80 horas       	|
 
 
 # ABES - Associação Brasileira das Empresas de Software
 [ABES](https://abes.com.br/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 12/04/2024	|7ZV36PGMJ9UEL6T7V2LA |Fundamentos da Lei Geral de Proteção de Dados Introdução e Boas Práticas |4 horas   	|
+| 12/04/2024	    |7ZV36PGMJ9UEL6T7V2LA                |Fundamentos da Lei Geral de Proteção de Dados Introdução e Boas Práticas  |4 horas        	|
 
 # EVG - Escola Virtual do Governo
 [EVG](https://www.escolavirtual.gov.br/)
@@ -189,7 +189,7 @@ Coloco-me à disposição para o que for necessário
 [Fundação Bradesco](https://ev.org.br)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 03/08/2024	|7DED7B61-CEED-4F17-A237-D76556D72371 |Lei Geral de Proteção de Dados |2 horas   	|
+| 03/08/2024	    |7DED7B61-CEED-4F17-A237-D76556D72371   |Lei Geral de Proteção de Dados                                         |2 horas        	|
 
 
 # Alura
@@ -206,6 +206,11 @@ Coloco-me à disposição para o que for necessário
 | 04/10/2025	    |                     |PHP Criando sua Aplicação                                                        |8 horas        	|
 | 08/10/2025      |                     |Power Automate Criando fluxos de trabalho automatizados e otimizando rotinas     |8 horas          |
 | 11/10/2025	    |                     |Copilot Pro: aprendendo a utilizar as funcionalidades                            |8 horas        	|
+| 22/10/2025	    |                     |DevOps Explorando conceitos, comandos e scripts no Linux CLI                     |8 horas        	|
+| 25/10/2025	    |                     |DevOps Trabalhando com tráfego seguro em comunicações web                        |6 horas        	|
+| 28/10/2025	    |                     |DevOps Trabalhando com repositórios no GitHub                                    |8 horas        	|
+| 29/10/2025	    |                     |DevOps Construindo e gerindo containers com o Docker                             |8 horas        	|
+| 29/10/2025	    |                     |Começando com Devops                                                             |33 horas        	|
 
 
 
@@ -238,14 +243,14 @@ Coloco-me à disposição para o que for necessário
 [DESECSECURITY](https://academy.desecsecurity.com/login/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 08/02/2025	|INYL-IFLVE-LLYT |Introdução ao Pentest na Prática|2 horas   	|
+| 08/02/2025    	|INYL-IFLVE-LLYT                        |Introdução ao Pentest na Prática                                       |2 horas        	|
 
 
 # QAZANDO
 [QAZANDO](https://qazando.com.br/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
 |----------------	|------------------------------------ 	|----------------------------------------------------------------------	|---------------	|
-| 10 a 13/03/2025	|https://www.certifyme.com.br/qazando/1741563873232 |Bootcamp QA Automation|8 horas   	|
+| 10 a 13/03/2025	|https://www.certifyme.com.br/qazando/1741563873232 |Bootcamp QA Automation                                     |8 horas         	|
 
 
 
