@@ -213,6 +213,7 @@ Coloco-me à disposição para o que for necessário
 | 28/10/2025	    |                     |DevOps Trabalhando com repositórios no GitHub                                    |8 horas        	|
 | 29/10/2025	    |                     |DevOps Construindo e gerindo containers com o Docker                             |8 horas        	|
 | 29/10/2025	    |                     |Começando com Devops                                                             |33 horas        	|
+| 30/10/2025	    |                     |Shift Left e DevOps: otimizando o ciclo de desenvolvimento de software           |02 horas        	|
 
 
 
