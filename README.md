@@ -200,7 +200,7 @@ Coloco-me à disposição para o que for necessário
 |----------------	|------------------  	|------------------------------------------------------------------------------   |---------------	|
 | 02 a 06/09/2024	|                     |Imersão Dev com Google Gemini https://humor-de-bits.vercel.app/                  |4 horas        	|
 | 25/04/2025     	|                     |ChatGPT: Produtividade Otimizando sua rotina com inteligência artificial         |6 horas        	|
-|29/04/2025	      |                     |ChatGPT: Desvendando a IA em Conversas e suas Aplicações                         |8 horas   	      |
+| 29/04/2025	    |                     |ChatGPT: Desvendando a IA em Conversas e suas Aplicações                         |8 horas   	      |
 | 02/05/2025    	|                     |ChatGPT: Otimizando a Qualidade dos Resultados                                   |8 horas          |
 | 02/05/2025	    |                     |ChatGPT: Copywriting Criando Textos Persuasivos com Inteligência Artificial      |8 horas        	|
 | 14/05/2025	    |                     |Liderança Aprendendo Sobre a Missão e Propósito de Liderar Pessoas               |6 horas        	|
@@ -215,6 +215,20 @@ Coloco-me à disposição para o que for necessário
 | 29/10/2025	    |                     |Começando com Devops                                                             |33 horas        	|
 | 30/10/2025	    |                     |Shift Left e DevOps: otimizando o ciclo de desenvolvimento de software           |2 horas        	|
 | 31/10/2025	    |                     |Curso Redes e Protocolos fundamentos da web                                      |20 horas        	|
+| 11/12/2025	    |                     |Integração Contínua: pipelines e testes automatizados com GitHub Actions         |8 horas        	|
+| 16/12/2025	    |                     |Integração Contínua: Pipeline Docker no Github Actions                           |8 horas        	|
+| 17/12/2025	    |                     |Integração Contínua: Pipeline de entrega e implementação contínua na EC2         |8 horas        	|
+| 18/12/2025	    |                     |Integração Contínua: automatize o deploy no Amazon ECS                           |8 horas        	|
+| 22/12/2025	    |                     |Integração Contínua: Rollback e teste de carga                                   |8 horas        	|
+| 22/12/2025	    |                     |Integração Contínua: automatizando a entrega no Kubernetes                       |8 horas        	|
+| 23/12/2025	    |                     |Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform   |8 horas        	|
+| 26/12/2025	    |                     |Ansible: implementando sua infraestrutura como código                            |8 horas        	|
+| 29/12/2025	    |                     |Docker: criando e gerenciando containers                                         |10 horas        	|
+| 30/12/2025	    |                     |Observabilidade: coletando métricas de uma aplicação com Prometheus              |10 horas        	|
+| 02/01/2026	    |                     |SRE: entenda a confiabilidade dos sistemas                                       |8 horas        	|
+| 04/01/2026	    |                     |Monitoramento: Prometheus, Grafana e Alertmanager                                |8 horas        	|
+| 04/01/2026	    |                     |Carreira SRE: Boas-vindas e primeiros passos                                     |2 horas        	|
+| 08/01/2026	    |                     |Confiabilidade: garantindo o estado de integridade de sistemas através de logs   |8 horas        	|
 
 
 
