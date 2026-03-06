@@ -229,6 +229,10 @@ Coloco-me à disposição para o que for necessário
 | 04/01/2026	    |                     |Monitoramento: Prometheus, Grafana e Alertmanager                                |8 horas        	|
 | 04/01/2026	    |                     |Carreira SRE: Boas-vindas e primeiros passos                                     |2 horas        	|
 | 08/01/2026	    |                     |Confiabilidade: garantindo o estado de integridade de sistemas através de logs   |8 horas        	|
+| 05/02/2026	    |          |Arquiteturas RAG com LLMs: embeddings, busca semântica e criação de agentes com LangChain   |8 horas        	|
+| 16/02/2026	    |                     |LangChain: Técnicas Avançadas de RAG                                             |8 horas        	|
+| 02/03/2026	    |                     |LangGraph: Orquestrando agentes e multiagentes                                   |8 horas        	|
+| 04/03/2026	    |                     |Model Context Protocol (MCP): integração e otimização em agentes de IA           |8 horas        	|
 
 
 
