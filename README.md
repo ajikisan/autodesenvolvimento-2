@@ -233,6 +233,11 @@ Coloco-me à disposição para o que for necessário
 | 16/02/2026	    |                     |LangChain: Técnicas Avançadas de RAG                                             |8 horas        	|
 | 02/03/2026	    |                     |LangGraph: Orquestrando agentes e multiagentes                                   |8 horas        	|
 | 04/03/2026	    |                     |Model Context Protocol (MCP): integração e otimização em agentes de IA           |8 horas        	|
+| 23/04/2026	    |                     |Power BI: analisando dados de forma inteligente                                  |12 horas        	|
+| 24/04/2026	    |                     |Confiabilidade: centralizando logs com Grafana                                   |12 horas        	|
+| 04/05/2026	    |                     |Power BI: conceitos do uso de DAX                                                |8 horas        	|
+| 12/05/2026	    |                     |Power BI: modelagem de dados                                                     |8 horas        	|
+| 26/05/2026	    |                     |Power BI: dashboards interativos e análise de dados                              |6 horas        	|
 
 
 
