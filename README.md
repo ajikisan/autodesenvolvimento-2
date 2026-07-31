@@ -238,6 +238,8 @@ Coloco-me à disposição para o que for necessário
 | 04/05/2026	    |                     |Power BI: conceitos do uso de DAX                                                |8 horas        	|
 | 12/05/2026	    |                     |Power BI: modelagem de dados                                                     |8 horas        	|
 | 26/05/2026	    |                     |Power BI: dashboards interativos e análise de dados                              |6 horas        	|
+| 23/06/2026	    |                     |Claude para Vibe Analytics: análise de dados, insights e decisões                |8 horas        	|
+| 06/07/2026	    |                     |Automação de processos com n8n: modelagem de fluxos e integração de sistemas     |12 horas        	|
 
 
 
