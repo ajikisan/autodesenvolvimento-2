@@ -262,6 +262,19 @@ Coloco-me à disposição para o que for necessário
 |	13/09/2025|https://sucurihc.org/blog/importancia-simples-nao-sei-tecnologia/|
 |20/09/2026 |https://sucurihc.org/blog/da-conscientizacao-a-pratica-minha-experiencia-na-primeira-turma-de-ctf/|
 
+|Data       |Palestra                    | Carga Horária |
+|----------	|----------------------------|---------------|
+|26/03/2026 |Segurança Digital Pessoal   | 2,5           |
+|09/04/2026 |Contabilidade Na TI         | 2,5           |
+|23/04/2026 |Pentest Com IA              | 2,5           |
+|07/05/2026 |Pentest Com IA Na Pratica   | 2,5           |
+|20/05/2026 |Service Workers             | 2,5           |
+|09/07/2026 |Communit Lab                | 2,5           |
+|23/07/2026 |Caido AI Driven	           | 2,5           |
+|06/08/2026 |Wazuh Ferramenta Blue Team  | 2,5           |
+|20/08/2026 |Workshop Caido AI Driven	   | 2,5           |
+ 
+
 # ANETI
 [ANETI](https://aneti.org.br/)
 | Data           	| Certificado 	                        | Curso                                   	                            | Carga Horária 	|
